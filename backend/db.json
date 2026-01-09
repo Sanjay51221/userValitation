@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "a391",
+      "name": "asd",
+      "email": "asd@asd",
+      "password": "456456",
+      "age": "22",
+      "education": "intermidiate",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_guXp3VdsedwmecUjqvEmZEJ8B1Kp2RdlA&s"
+    },
+    {
+      "id": "709d",
+      "name": "raj",
+      "email": "raj@a",
+      "password": "111111",
+      "age": "23",
+      "education": "njgtr",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_guXp3VdsedwmecUjqvEmZEJ8B1Kp2RdlA&s"
+    }
+  ]
+}
