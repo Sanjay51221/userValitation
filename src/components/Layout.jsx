@@ -2,6 +2,8 @@ import React from "react";
 
 const Layout = () => {
   return (
+
+    // this is i am writing for git hub 
     <>
       <section className="h-[70%] bg-purple-600 dark:bg-slate-800 flex items-center justify-center text-white">
         <div className="text-center px-6 max-w-3xl">
